@@ -1,0 +1,13 @@
+[
+    {   "url": "zacatecnik", 
+        "reservations": ["some reservation"]
+    },
+    {
+        "url": "mirne-pokrocili",
+        "reservations": []
+    },
+    {
+        "url": "stredne-pokrocili",
+        "reservations": []
+    }
+]

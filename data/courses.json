@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Začátečníci",
+    "url": "zacatecnik",
+    "size": 5
+  },
+  {
+    "name": "Mírně pokročilí",
+    "url": "mirne-pokrocili",
+    "size": 10
+  },
+  {
+    "name": "Středně pokročilí",
+    "url": "stredne-pokrocili",
+    "size": 15
+  }
+]
