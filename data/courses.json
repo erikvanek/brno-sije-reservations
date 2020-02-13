@@ -1,17 +1,34 @@
 [
-  {
-    "name": "Začátečníci",
-    "url": "zacatecnik",
-    "size": 5
-  },
-  {
-    "name": "Mírně pokročilí",
-    "url": "mirne-pokrocili",
-    "size": 10
-  },
-  {
-    "name": "Středně pokročilí",
-    "url": "stredne-pokrocili",
-    "size": 15
-  }
+    {
+        "name": "Začátečníci",
+        "url": "zacatecnik",
+        "size": 5,
+        "runs": [
+            {
+                "id": 1,
+                "start": "10.2.2020",
+                "end": "2.3.2020"
+            },
+            {
+                "id": 2,
+                "start": "9.3.2020",
+                "end": "13.4.2020"
+            },
+            {
+                "id": 3,
+                "start": "27.4.2020",
+                "end": "8.5.2020"
+            }
+        ]
+    },
+    {
+        "name": "Mírně pokročilí",
+        "url": "mirne-pokrocili",
+        "size": 10
+    },
+    {
+        "name": "Středně pokročilí",
+        "url": "stredne-pokrocili",
+        "size": 15
+    }
 ]

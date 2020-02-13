@@ -1,6 +1,9 @@
 [
-    {   "url": "zacatecnik", 
-        "reservations": ["some reservation"]
+    {
+        "url": "zacatecnik",
+        "reservations": [{
+            "runId": 1
+        }]
     },
     {
         "url": "mirne-pokrocili",
